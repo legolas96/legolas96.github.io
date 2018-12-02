@@ -42,7 +42,7 @@ Attended JAIST-India workshop on Computational Material Science conducted at IIT
 
 * **Ab initio packages:** [VASP](https://www.vasp.at/), [Quantum Espresso](https://www.quantum-espresso.org/), [CASINO](https://vallico.net/casinoqmc/), [ATAT](https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/)
 * **Other packages:** [Phonopy](https://atztogo.github.io/phonopy/), [Thermo-Calc](https://www.thermocalc.com/), [LAMMPS](https://lammps.sandia.gov/)
-* **Programming Languages:** C, Python, FORTRAN, MATLAB, Shell scripting
+* **Programming Languages:** C, Python, Fortran, MATLAB, Shell scripting
 * **Miscellaneous:** Auto CAD, LaTeX
 
     
