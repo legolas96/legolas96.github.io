@@ -1,6 +1,6 @@
 title: Sesha Sai Behara
 url: "https://legolas96.github.io"
-baseurl: "/index"
+baseurl: ""
 
 markdown: kramdown
 
@@ -15,7 +15,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/index"
+   link: ""
  - name: "Resume"
    link: "/Curriculum_Vitae.pdf"
  - name: "Research"
