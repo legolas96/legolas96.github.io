@@ -15,10 +15,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/index"
+   link: "index"
  - name: "Resume"
-   link: "/Curriculum_Vitae.pdf"
+   link: "Curriculum_Vitae.pdf"
  - name: "Research"
-   link: "/projects"
+   link: "projects"
  - name: "Contact"
-   link: "/contact"
+   link: "contact"
