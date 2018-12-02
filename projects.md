@@ -15,10 +15,10 @@ Advisor: Dr. Kenta Hongo, Japan Advanced Institute of Science and Technology, Ja
 * Computed ground state energies and determined the order of stability of hexagonal-BN, wurtzite-BN and zinc blende-BN using Quantum Monte Carlo method (QMC).
 * Contrasted the results obtained with QMC technique with various other methods such as random phase approximation, van der Waals many body dispersion, etc.
 
-**Ab initio guided thermodynamic optimization of Fe-Ti-P system using CALPHAD method**\\
+***Ab initio* guided thermodynamic optimization of Fe-Ti-P system using CALPHAD method**\\
 Advisor: Prof. K.C. Hari Kumar, Metallurgical and Materials Engineering
 * Utilized VASP to obtain ground state enthalpies of formation of all the intermetallics involved in Fe-P, Ti-P and Fe-Ti-P systems.
-* Currently optimizing the gibbs energy parameters for Fe-P, Ti-P binary systems which can further be utilized to obtain thermodynamic descriptions for the ternary Fe-Ti-P system.\\
+* Currently optimizing the gibbs energy parameters for Fe-P, Ti-P binary systems which can further be utilized to obtain thermodynamic descriptions for the ternary Fe-Ti-P system.
 
 **Understanding the deformation behavior of as-cast high entropy alloys**\\
 Advisor: Dr. Ravi Sankar Kottada, Metallurgical and Materials Engineering, IITM
