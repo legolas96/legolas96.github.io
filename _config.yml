@@ -17,7 +17,7 @@ nav:
  - name: "About"
    link: "/index"
  - name: "Resume"
-   link: "/Curriculum_Vitae.pdf"
+   link: "/resume.pdf"
  - name: "Research"
    link: "/projects"
  - name: "Contact"
