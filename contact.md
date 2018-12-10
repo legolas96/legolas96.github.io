@@ -11,6 +11,6 @@ is_contact: true
 
 ## Social
 
-1. [LinkedIn](https://www.linkedin.com/in/sesha-sai-b-880495a8)
+1. [LinkedIn](https://www.linkedin.com/in/seshasaibehara)
 
 
