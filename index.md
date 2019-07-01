@@ -23,7 +23,7 @@ I am a final year dual degree student at [IIT Madras](https://www.iitm.ac.in/) p
 * Attended JAIST-India workshop on Computational Material Science conducted at IIT Madras, Dec 2016.
 
 ## Conference Presentations
-* **Sesha Sai Behara**, Soumya Sridar and K.C. Hari Kumar, "Thermodynamic assessment of CaO-MgO system", Poster presentation at CALPHAD conferences conducted at Singapore, July 2019
+* **Sesha Sai Behara**, Soumya Sridar and K.C. Hari Kumar, "Thermodynamic assessment of CaO-MgO system", Poster presentation at CALPHAD XLVIII conference conducted at Singapore, July 2019
 * **Sesha Sai Behara**, Soumya Sridar and K.C. Hari Kumar, “Gibbs Energy Description for FeTiP Precipitates in Interstitial Free High Strength (IFHS) Steels”, Contributory oral presentation at National Metallurgist Day Annual Technical meet (NMD ATM) conference, Kolkata, India, November 2018.
 * **Sesha Sai Behara**, Soumya Sridar and K.C. Hari Kumar, “Thermodynamic optimization of CaO-MgO system coupled with ab initio calculations”, In house symposium, IIT Madras, India, July 2017.
 * Anirudha Karati, **Sesha Sai Behara**, Ameey Anupam, and Ravi Sankar Kottada, “Tesseracts: Stacking faults in CoCrFe alloys”, Metallography contest at National Metallurgist Day Annual Technical Meet (NMD ATM) conference, Coimbatore, India, November 2015.
