@@ -19,9 +19,11 @@ I am a final year dual degree student at [IIT Madras](https://www.iitm.ac.in/) p
 * Computational Materials Science.
 
 ## Workshops
-Attended JAIST-India workshop on Computational Material Science conducted at IIT Madras, Dec 2016.
+* Organized a Computational Materials Science workshop at IIT Gandhinagar, Jan 2019
+* Attended JAIST-India workshop on Computational Material Science conducted at IIT Madras, Dec 2016.
 
 ## Conference Presentations
+* **Sesha Sai Behara**, Soumya Sridar and K.C. Hari Kumar, "Thermodynamic assessment of CaO-MgO system", Poster presentation at CALPHAD conferences conducted at Singapore, July 2019
 * **Sesha Sai Behara**, Soumya Sridar and K.C. Hari Kumar, “Gibbs Energy Description for FeTiP Precipitates in Interstitial Free High Strength (IFHS) Steels”, Contributory oral presentation at National Metallurgist Day Annual Technical meet (NMD ATM) conference, Kolkata, India, November 2018.
 * **Sesha Sai Behara**, Soumya Sridar and K.C. Hari Kumar, “Thermodynamic optimization of CaO-MgO system coupled with ab initio calculations”, In house symposium, IIT Madras, India, July 2017.
 * Anirudha Karati, **Sesha Sai Behara**, Ameey Anupam, and Ravi Sankar Kottada, “Tesseracts: Stacking faults in CoCrFe alloys”, Metallography contest at National Metallurgist Day Annual Technical Meet (NMD ATM) conference, Coimbatore, India, November 2015.
@@ -45,7 +47,7 @@ Attended JAIST-India workshop on Computational Material Science conducted at IIT
 * **Programming Languages:** C, Python, Fortran, MATLAB, Shell scripting
 * **Miscellaneous:** Auto CAD, LaTeX
 
-    
+
 ## Achievements
 
 * Awarded scholarship from Japanese Government to pursue two months research at Japan Advanced Institute of Science and Technology, Japan – 2018.
@@ -53,4 +55,3 @@ Attended JAIST-India workshop on Computational Material Science conducted at IIT
 * One of the 100 students of all the prestigious engineering (IITs, NITs) and management (IIMs) institutions in India to be awarded OPJEMS scholarship – 2016.
 * Scored 270/360 in JEE Mains 2014 (Joint Entrance Examination), with only 850 students scoring above 270 out of 1.3 million applicants.
 * Secured second position in All India Fast Mathematics competition – 2009.
-
