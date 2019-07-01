@@ -29,6 +29,7 @@ I am a final year dual degree student at [IIT Madras](https://www.iitm.ac.in/) p
 * Anirudha Karati, **Sesha Sai Behara**, Ameey Anupam, and Ravi Sankar Kottada, “Tesseracts: Stacking faults in CoCrFe alloys”, Metallography contest at National Metallurgist Day Annual Technical Meet (NMD ATM) conference, Coimbatore, India, November 2015.
 
 ## Relevant course work at IIT Madras
+* Solid state physics
 * Atomistic Modelling of Materials
 * Molecular Simulations of Soft Matter
 * Computational Materials Thermodynamics
