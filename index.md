@@ -19,7 +19,7 @@ I am a final year dual degree student at [IIT Madras](https://www.iitm.ac.in/) p
 * Computational Materials Science.
 
 ## Workshops
-* Organized a Computational Materials Science workshop at IIT Gandhinagar, Jan 2019
+* Organized a workshop on Computational Materials Science at IIT Gandhinagar, Jan 2019
 * Attended JAIST-India workshop on Computational Material Science conducted at IIT Madras, Dec 2016.
 
 ## Conference Presentations
